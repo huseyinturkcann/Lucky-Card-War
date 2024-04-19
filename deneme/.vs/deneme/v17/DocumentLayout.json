@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\husen\\source\\repos\\deneme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99BFFC84-365B-40D7-931F-969B2C6B0492}|deneme\\deneme.csproj|c:\\users\\husen\\source\\repos\\deneme\\deneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99BFFC84-365B-40D7-931F-969B2C6B0492}|deneme\\deneme.csproj|solutionrelative:deneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\husen\\source\\repos\\deneme\\deneme\\Program.cs",
+              "RelativeDocumentMoniker": "deneme\\Program.cs",
+              "ToolTip": "C:\\Users\\husen\\source\\repos\\deneme\\deneme\\Program.cs",
+              "RelativeToolTip": "deneme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:46:01.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
